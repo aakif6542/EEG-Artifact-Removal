@@ -1,0 +1,5 @@
+eeg/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+mne_data/
